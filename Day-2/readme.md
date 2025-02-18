@@ -1,0 +1,2 @@
+here i basically leaned what is tf state file and how to keep it safe so that our resource config does not get lost.
+We should keep the state file to a remote backend not an version control/git store it on BLOB or S3
